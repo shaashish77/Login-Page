@@ -1,5 +1,5 @@
 # Elegant Login & Register Forms built in React
-![Screen Shot 2022-07-25 at 10 55 45 PM] Created by Ashish Kumar sah.
+Created by Ashish Kumar sah.
 This project was bootstrapped with [Create React App]
 
 ## Available Scripts
